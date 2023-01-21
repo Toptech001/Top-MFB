@@ -1,7 +1,7 @@
-# DebitHub
+# Top MFB.
 
 ## Introduction
-DebitHub was a team project with the purpose of creating a full-stack mobile application. It is a digital banking application
+Top Mfb was a team project with the purpose of creating a full-stack mobile application. It is a digital banking application
 with almost all core functionalities included, along with some additional tweaks such as dark mode and a dual implementation for 
 admin and user in the same application. Admins can not sign up using the application and have been added through my firebase project
 console. For accessing the admin panel, the following credentials can be used:</br>
@@ -17,9 +17,6 @@ If you want to integrate your own firebase project into this application, you ca
 
 This project took our team a lot of time and effort. We have put it up as an open-source project, so please be sure to 
 give proper attribution to debithub's github repository: https://github.com/dingavinga1/debithub.git</br></br>
-Please also make sure to follow my team and give them your support:</br>
-- [Aisha Irfan](https://github.com/aishairfan)
-- [Muhammad Huzaifa](https://github.com/huzaifi0604)
 
 ## How to use
 
